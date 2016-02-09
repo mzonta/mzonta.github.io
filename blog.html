@@ -10,10 +10,10 @@ title: Blog
       <li>
         <!-- Date and Author -->
         <div class="post-meta-index">
-          {% if post.author %} <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name"> Posted by {{ post.author }}
+          {% if post.author %} Posted by {{ post.author }}
           {% else %} Posted
-          </span></span> {% endif %}
-          on <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time>
+          {% endif %}
+          on <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
         </div>
         <!-- Title -->
         <div>
