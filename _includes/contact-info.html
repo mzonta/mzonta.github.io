@@ -1,0 +1,77 @@
+<table>
+  <tr>
+    <td style="vertical-align: top">
+      <span class="fa-stack fa-lg">
+        <i class="fa fa-stack-2x"></i>
+      </span>
+    </td>
+    <td style="vertical-align: middle; text-align: left; font-size: 24px; border-bottom: 1px solid #828282">
+      {{ site.title }}
+    </td>
+  </tr>
+  {% if site.email %}
+    <tr>
+      <td style="vertical-align: top">
+        <span class="fa-stack fa-lg">
+          <i class="fa fa-stack-2x"></i>
+          <i class="fa fa-envelope fa-stack-1x"></i>
+        </span>
+      </td>
+      <td style="vertical-align: middle; text-align: left">
+        <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+      </td>
+    </tr>
+  {% endif %}
+  {% if site.phone %}
+  <tr>
+    <td style="vertical-align: top">
+      <span class="fa-stack fa-lg">
+          <i class="fa fa-stack-2x"></i>
+          <i class="fa fa-phone fa-stack-1x"></i>
+      </span>
+    </td>
+    <td style="vertical-align: middle; text-align: left">
+      T: {{ site.phone }}
+    </td>
+  </tr>
+  {% endif %}
+  {% if site.mobile %}
+  <tr>
+    <td style="vertical-align: top">
+      <span class="fa-stack fa-lg">
+          <i class="fa fa-stack-2x"></i>
+          <i class="fa fa-phone fa-stack-1x"></i>
+      </span>
+    </td>
+    <td  style="vertical-align: middle; text-align: left">
+      M: {{ site.mobile }}
+    </td>
+  </tr>
+  {% endif %}
+  {% if site.skype %}
+  <tr>
+    <td style="vertical-align: top">
+      <span class="fa-stack fa-lg">
+          <i class="fa fa-stack-2x"></i>
+          <i class="fa fa-skype fa-stack-1x"></i>
+      </span>
+    </td>
+    <td  style="vertical-align: middle; text-align: left">
+      <a href="callto:{{ site.skype }}">{{ site.skype }}</a>
+    </td>
+  </tr>
+  {% endif %}
+  {% if site.address %}
+  <tr>
+    <td  style="vertical-align: top">
+      <span class="fa-stack fa-lg">
+          <i class="fa fa-stack-2x"></i>
+          <i class="fa fa-map-marker fa-stack-1x"></i>
+      </span>
+    </td>
+    <td style="vertical-align: middle; text-align: left">
+      {{ site.address }}
+    </td>
+  </tr>
+  {% endif %}
+</table>

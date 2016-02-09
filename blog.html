@@ -1,0 +1,28 @@
+---
+layout: default
+title: Blog
+---
+
+<div class="home">
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <!-- Date and Author -->
+        <div class="post-meta-index">
+          {% if post.author %} <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name"> Posted by {{ post.author }}
+          {% else %} Posted
+          </span></span> {% endif %}
+          on <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time>
+        </div>
+        <!-- Title -->
+        <div>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <div class="post-link-subtitle">{{ post.subtitle }}</div>
+
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>

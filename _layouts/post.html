@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <!-- Post Header -->
+    <div class="jumbotron" style="height: {{ site.post_title_heght }}; margin-bottom: 0px; background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
+      <div class="container">
+        <div class="post-title" itemprop="name headline">{{ page.title }}</div>
+        <p><div class="post-subtitle">{{ page.subtitle }}</div></p>
+        <p><div class="post-meta-post">
+          {% if page.author %}  Posted by {{ page.author }}
+          {% else %} Posted
+          {% endif %}
+          on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%b %-d, %Y" }}</time>
+          {% if page.update %}
+          (Updated <time datetime="{{ page.update | date_to_xmlschema }}">{{ page.update | date: "%b %-d, %Y" }}</time>)
+          {% endif %}
+        </div></p>
+      </div>
+    </div>
+
+    <div class="page-content" style="min-height: {{ site.page-min-height }}">
+      <div class="wrapper" style="text-align: justify">
+        {{ content }}
+        <!-- End of Post -->
+        <hr class="style-eight">
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>

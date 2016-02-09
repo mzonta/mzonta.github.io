@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header-it.html %}
+
+    <!-- Page Header -->
+    <div class="jumbotron" style="height: {{ site.page_title_heght }}; margin-bottom: 0px; background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
+      <div class="container">
+        {% if page.title %}
+          <div class="post-title" itemprop="name headline">{{ page.title }}</div>
+        {% endif %}
+      </div>
+    </div>
+
+    <!-- Page Content -->
+    <div class="page-content"  style="min-height: {{ site.page-min-height }}">
+      <div class="wrapper" style="text-align: justify">
+        {{ content }}
+      </div>
+    </div>
+
+    <div class="v-space" style="height: 0px"></div>
+
+    {% include footer-it.html %}
+
+  </body>
+
+</html>

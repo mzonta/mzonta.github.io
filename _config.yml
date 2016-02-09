@@ -1,0 +1,49 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Massimiliano Zonta
+title_short: MZ
+author: Massimiliano Zonta
+email: mzonta@ieee.org
+phone:
+mobile: +39 3488590927
+skype: massimiliano.zonta
+address:
+  Via tre ponti, 62
+  <br>
+  36061 Bassano del Grappa (VI)
+  <br>
+  Italy
+description:  # this means to ignore newlines until "baseurl:"
+ Hi, I'm an automation engineer.
+ <br>
+ Here you can find notes about what I'm working on.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://mzonta.github.io" # the base hostname & protocol for your site
+twitter_username: mzonta
+github_username:  mzonta
+linkedin_username: mzonta
+
+# Build settings
+markdown: kramdown
+
+# Other settings
+sass:
+ style: :compressed
+
+permalink: /:year-:month-:day-:title.html
+
+#   3rd Party Settings    #
+# landing.html
+landing_img: /img/glass-gy.jpg
+
+# page size
+page-width: 1280px
+page-min-height: 800px
+page_title_heght: 120px
+post_title_heght: 200px

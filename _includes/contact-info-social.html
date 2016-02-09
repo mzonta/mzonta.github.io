@@ -1,0 +1,121 @@
+<table>
+  {% if site.email %}
+    <tr>
+      <td style="vertical-align: top">
+        <span class="fa-stack fa-lg">
+          <i class="fa fa-stack-2x"></i>
+          <i class="fa fa-envelope fa-stack-1x"></i>
+        </span>
+      </td>
+      <td style="vertical-align: middle; text-align: left">
+        <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+      </td>
+    </tr>
+  {% endif %}
+  {% if site.mobile %}
+  <tr>
+    <td  style="vertical-align: top">
+      <span class="fa-stack fa-lg">
+          <i class="fa fa-stack-2x"></i>
+          <i class="fa fa-phone fa-stack-1x"></i>
+      </span>
+    </td>
+    <td  style="vertical-align: middle; text-align: left">
+      M: {{ site.mobile }}
+    </td>
+  </tr>
+  {% endif %}
+  {% if site.phone %}
+  <tr>
+    <td  style="vertical-align: top">
+      <span class="fa-stack fa-lg">
+          <i class="fa fa-stack-2x"></i>
+          <i class="fa fa-phone fa-stack-1x"></i>
+      </span>
+    </td>
+    <td  style="vertical-align: middle; text-align: left">
+      T: {{ site.phone }}
+    </td>
+  </tr>
+  {% endif %}
+  {% if site.skype %}
+  <tr>
+    <td  style="vertical-align: top">
+      <span class="fa-stack fa-lg">
+          <i class="fa fa-stack-2x"></i>
+          <i class="fa fa-skype fa-stack-1x"></i>
+      </span>
+    </td>
+    <td  style="vertical-align: middle; text-align: left">
+      <a href="callto:{{ site.skype }}">{{ site.skype }}</a>
+    </td>
+  </tr>
+  {% endif %}
+  {% if site.address %}
+  <tr>
+    <td  style="vertical-align: top">
+      <span class="fa-stack fa-lg">
+          <i class="fa fa-stack-2x"></i>
+          <i class="fa fa-map-marker fa-stack-1x"></i>
+      </span>
+    </td>
+    <td style="vertical-align: middle; text-align: left">
+      {{ site.address }}
+    </td>
+  </tr>
+  {% endif %}
+
+  <tr style="height: 20px">
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td></td>
+    <td>
+      <ul class="social-media-list" style="text-align: left; font-size: 15px">
+        {% if site.linkedin_username %}
+        <li>
+            <a href="https://www.linkedin.com/in/{{ site.github_username }}/en" target=_blank>
+                <span class="fa-stack fa-lg social-media-list">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+                </span>
+            </a>
+        </li>
+        {% endif %}
+        {% if site.github_username %}
+        <li>
+            <a href="https://github.com/{{ site.github_username }}" target=_blank>
+                <span class="fa-stack fa-lg social-media-list">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                </span>
+            </a>
+        </li>
+        {% endif %}
+        {% if site.twitter_username %}
+        <li>
+            <a href="https://twitter.com/{{ site.twitter_username }}" target=_blank>
+                <span class="fa-stack fa-lg social-media-list">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-twitter fa-stack-1x fa-inverse "></i>
+                </span>
+            </a>
+        </li>
+        {% endif %}
+        {% if site.facebook_username %}
+        <li>
+            <a href="https://www.facebook.com/{{ site.facebook_username }}" target=_blank>
+                <span class="fa-stack fa-lg social-media-list">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                </span>
+            </a>
+        </li>
+        {% endif %}
+      </ul>
+    </td>
+  </tr>
+
+</table>
