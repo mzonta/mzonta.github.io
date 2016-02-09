@@ -1,6 +1,6 @@
 ---
 layout: default-it
-title: Licenze & Responsabilità
+title: Licenza & Responsabilità
 ---
 
 ### Licenza
