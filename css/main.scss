@@ -26,8 +26,8 @@ $grey-color-dark:  darken($grey-color, 25%);
 // Width of the content area
 $content-width:    {{ site.page-width }}; //1280px;
 
-$on-palm:          600px;
-$on-laptop:        800px;
+$on-palm:          800px; //600px;
+$on-laptop:        1000px; //800px
 
 
 
