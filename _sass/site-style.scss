@@ -414,11 +414,16 @@ p.copyright {
 
 .page-title {
     font-size: 42px;
+    font-weight: 700;
     letter-spacing: -1px;
     line-height: 1;
 
     @include media-query($on-laptop) {
-        font-size: 36px;
+        font-size: 42px;
+    }
+
+    @include media-query($on-palm) {
+        font-size: 42px;
     }
 }
 
