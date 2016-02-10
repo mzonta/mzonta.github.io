@@ -624,6 +624,27 @@ hr.style-eight:after {
   }
 }
 
+.my-avatar-about {
+  max-width: 240px;
+  float: left;
+  position: relative;
+  right: 0px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+
+  img { width: 100%; }
+
+  @include media-query($on-laptop) {
+    max-width: 220px;
+  }
+
+  @include media-query($on-palm) {
+    float: none;
+    max-width: 180px;
+  }
+
+}
+
 @mixin border-radius($radius) {
   -webkit-border-radius: $radius;
   -moz-border-radius: $radius;
@@ -633,6 +654,10 @@ hr.style-eight:after {
 .my-photo {
   max-width: 100%;
   @include border-radius(100px);
+}
+
+.my-photo-about {
+  max-width: 100%;
 }
 
 .page-content {

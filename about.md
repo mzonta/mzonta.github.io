@@ -3,8 +3,8 @@ layout: default
 title: About Me
 ---
 
-<div style="max-width: 250px; float: left; padding-right: 20px; padding-bottom: 20px">
-    <img src="/img/my-photo-square.jpg">
+<div class="my-avatar-about">
+    <img class="my-photo-about" src="/img/my-photo-square.jpg">
 </div>
 
 ### Dear Sir,

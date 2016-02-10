@@ -117,6 +117,12 @@ While there is no any particular criteria inside each subject, except for the si
 
   [nodejs-installation]:https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions
 
+* ### Responsinator
+
+  [Responsinator][responsinator]
+
+  [responsinator]: http://www.responsinator.com/
+
 * ### Ruby
 
   [Ruby][ruby-site]

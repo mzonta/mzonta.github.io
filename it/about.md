@@ -3,12 +3,12 @@ layout: default-it
 title: Profilo Personale
 ---
 
-<div style="max-width: 250px; float: left; padding-right: 20px; padding-bottom: 20px">
-    <img src="/img/my-photo-square.jpg">
+<div class="my-avatar-about">
+    <img class="my-photo-about" src="/img/my-photo-square.jpg">
 </div>
 
 ### Gentile Lettore,
-Sono Massimiliano Zonta, un ingegnere dell'automazione attualmente titolare della ditta individuale [AEX Engineering di Ing. Zonta Massimiliano  <i class="fa fa-external-link"></i>](http://www.aexengineering.com).
+Sono Massimiliano Zonta, un ingegnere dell'automazione attualmente titolare della ditta individuale [AEX Engineering di Ing. Zonta Massimiliano  <i class="fa fa-external-link"></i>][aexengineering].
 
 Di seguito alcune note biografiche.
 
@@ -98,3 +98,7 @@ E anche in quest'ultimo caso ti risponderò con un sorriso.
 [AP2  <i class="fa fa-external-link"></i>](http://www.ap2.it/index.html)
 
 [Sanovo Technology Group  <i class="fa fa-external-link"></i>](http://www.sanovogroup.com/)
+
+<!-- Links -->
+
+[aexengineering]: http://www.massimilianozonta.com
