@@ -624,6 +624,34 @@ hr.style-eight:after {
   }
 }
 
+.my-avatar-intro {
+  max-width: 240px;
+  float: left;
+  position: relative;
+  left: 40px;
+  right: 0px;
+  padding-right: 20px;
+  padding-bottom: 0px;
+
+  img { width: 100%; }
+
+  @include media-query($on-laptop) {
+    float: center;
+    max-width: 220px;
+  }
+
+  @include media-query($on-palm) {
+    float: center;
+    max-width: 180px;
+  }
+
+  @include media-query(400px) {
+    float: center;
+    max-width: 180px;
+  }
+
+}
+
 .my-avatar-about {
   max-width: 240px;
   float: left;
@@ -658,6 +686,11 @@ hr.style-eight:after {
 .my-photo {
   max-width: 100%;
   @include border-radius(100px);
+}
+
+.my-photo-intro {
+  max-width: 100%;
+  @include border-radius(160px);
 }
 
 .my-photo-about {
