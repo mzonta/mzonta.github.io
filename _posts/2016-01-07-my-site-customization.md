@@ -142,7 +142,7 @@ In general I took some ideas and code from the [blog of Joel Glovier][joel-glovi
 About *hr style* at the end of posts I found something at [CSS-TRICKS][css-tricks-hr]
 
 
-## Resources & Credits
+## Links
 
 * Jekyll
 

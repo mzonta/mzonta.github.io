@@ -186,7 +186,7 @@ At this point I could use the blog generated automatically, but I had in my mind
 
 But this will be the subject of a next post.
 
-## Resources & Credits
+## Links
 
 * [Ruby][ruby-site]
 

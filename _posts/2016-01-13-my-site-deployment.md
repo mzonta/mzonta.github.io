@@ -58,7 +58,7 @@ In my case I went into the DNS panel manager
 
 Then I had to wait some time (could be around one hour) before the conection was completed.
 
-## Resources & Credits
+## Links
 
 * [Jekyll][jekyll-site]
 

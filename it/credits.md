@@ -1,6 +1,6 @@
 ---
 layout: default-it
-title: Crediti & Licenze
+title: Crediti
 ---
 
-Vedi [qui]({{ site.baseurl }}/credits.html).
+Si veda [qui]({{ site.baseurl }}/credits.html).

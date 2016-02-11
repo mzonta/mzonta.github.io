@@ -3,8 +3,6 @@ layout: default
 title: Credits
 ---
 
-## CREDITS
-
 Here a list of links where I found inspiration and resources to build this site.
 
 They are organized by subjects and the subjects are listed following just the alphabetical order.

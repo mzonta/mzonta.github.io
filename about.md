@@ -73,7 +73,7 @@ my family members and other friends do, that is *Massi*, my favourite, or *Zonta
 <hr class="style-eight">
 <div class="v-space" style="height:20px;"></div>
 
-## Credits
+## Links
 
 [Asiago  <i class="fa fa-external-link"></i>](https://en.wikipedia.org/wiki/Asiago)
 
