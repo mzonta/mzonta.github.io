@@ -8,7 +8,7 @@ title: About Me
 </div>
 
 ### Dear Sir,
-I am Massimiliano Zonta, an automation engineer that actually is the owner of the sole proprietorship [AEX Engineering by Ing. Zonta Massimiliano  <i class="fa fa-external-link"></i>](http://www.aexengineering.com)
+I am Massimiliano Zonta, an automation engineer that actually is the owner of the sole proprietorship [AEX Engineering by Ing. Zonta Massimiliano  <i class="fa fa-external-link"></i>][aexengineering]
 
 If you like, below you can find some biographical notes.
 
@@ -92,3 +92,7 @@ my family members and other friends do, that is *Massi*, my favourite, or *Zonta
 [AP2  <i class="fa fa-external-link"></i>](http://www.ap2.it/index_eng.html)
 
 [Sanovo Technology Group  <i class="fa fa-external-link"></i>](http://www.sanovogroup.com/)
+
+<!-- Links -->
+
+[aexengineering]: http://www.massimilianozonta.com

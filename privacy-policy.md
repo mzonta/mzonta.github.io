@@ -18,9 +18,9 @@ which correspons to the homepage of the Site.
 
 The Site is hosted on GitHub Inc. (https://github.com/). See the [Security policy <i class="fa fa-external-link"></i>][github-security].
 
-The information provided only applies to this Site and does not concern any web sites that may be visited by an user via external links.
+The information provided only applies to this Site and does not concern any web sites that may be visited by Users via external links.
 
-The information is also based on the Recommendation. 2/2001 that the European authorities for the protection of personal data, gathered in the Working Party established under [Art. 29 of European Directive 95/46/CE <i class="fa fa-external-link"></i>][direttiva-CE-95-46-art29], adopted on 17 May 2001 to establish minimum requirements for collecting personal data online, and, in particular, the procedures, timing and the content of the informations that data controllers must provide to users when they connect to web pages, regardless of the purpose of the visiting.
+The information is also based on the Recommendation. 2/2001 that the European authorities for the protection of personal data, gathered in the Working Party established under [Art. 29 of European Directive 95/46/CE <i class="fa fa-external-link"></i>][direttiva-CE-95-46-art29], adopted on 17 May 2001 to establish minimum requirements for collecting personal data online, and, in particular, the procedures, timing and the content of the informations that data controllers must provide to Users when they connect to web pages, regardless of the purpose of the visiting.
 
 The above Recommendation as well as a summary of its purposes can be found in the site of [Garante della Privacy (Italian Data Protection Authority) <i class="fa fa-external-link"></i>][garante-privacy-home].
 
@@ -43,11 +43,11 @@ For further informations see the [Contact page][titolare-contatti].
 
   These informations are not collected to be associated with identified user, but by their nature could, through processing and in associations with data held by third parties, identify users.
 
-  This data category includes IP addresses and/or the domain names of the computers used by any user connecting with this web site, the URI (Uniform Resource Identifier) addresses of the requested resources, the time of such requests, the method used for submitting a given request to the server, returned file size, a numerical code relating to server response status (successfully performed, error, etc.), and other parameters related to the user's operating system and computer environment.
+  This data category includes IP addresses and/or the domain names of the computers used by any user connecting with this web site, the URI (Uniform Resource Identifier) addresses of the requested resources, the time of such requests, the method used for submitting a given request to the server, returned file size, a numerical code relating to server response status (successfully performed, error, etc.), and other parameters related to the User's operating system and computer environment.
 
 * Data Provided Voluntarily by User
 
-  The optional and voluntary use one of the methods of contact made available on this site (e-mail, forms, social networks) involves the acquisition of the sender's personal data (Name, Addresses, User Name in the case of social networks) necessary to respond to requests, as well as any other Personal Data included in the message.
+  The optional and voluntary use of the contact methods made available on this site (e-mail, forms, social networks) involves the acquisition of the User's Personal Data (Name, Addresses, User Name in the case of social networks) necessary to respond to requests, as well as any other Personal Data included in the message.
 
 * Cookie policy
 
@@ -55,8 +55,8 @@ For further informations see the [Contact page][titolare-contatti].
 
   Are not used any cookies to transmit personal information, nor are used so-called persistent cookies of any kind, or systems for tracking users.
 
-  But you have to pay attention that in this Site there are links to external sites, including those related to social networks.<br>
-  When User accesses an external site should refer to the Privacy policy of that site, in particular with regard to the use of cookies from the external site.
+  Anyway User has to pay attention that in this Site there are links to external sites, including those related to social networks.<br>
+  When User accesses an external site should refer to the Privacy policy of that site, in particular the use of cookies from the external site.
 
   The user has the possibility to implement the precautionary procedures by setting in his browser how to manage cookies used by sites.<br>
 
@@ -84,8 +84,6 @@ The processing of Data collected through this Site is carried out using automate
 In addition to the Data Controller, in some cases, external parties (such as third party technical service providers, mail carriers, hosting providers, email providers, IT companies) may have access to the Data.
 
 However, Data are never transferred to other agencies or persons.
-
-Specific security measures are implemented to prevent the data from being lost, used unlawfully and/or inappropriately, and accessed without authorisation.
 
 ### PLACE WHERE DATA ARE PROCESSED
 

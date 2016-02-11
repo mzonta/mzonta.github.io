@@ -7,7 +7,7 @@ title: Cookie policy
 
 This information on the use of cookies is provided in pursuance of [Simplified Arrangements to Provide Information and Obtain Consent Regarding Cookies - 8 may 2014 <i class="fa fa-external-link"></i>][garante-privacy-cookie-8-05-2014] and also in compliance with [Section 13 of Legislative Decree no. 196/2003 <i class="fa fa-external-link"></i>][garante-privacy-art13-196-2003].
 
-This Site does not use any kind of cookies, so no Personal Data are aquired by the Site.
+**This Site does not use any kind of cookies, so no Personal Data are aquired by the Site**.
 
 Are not used any cookies to transmit personal information, nor are used so-called persistent cookies of any kind, or systems for tracking users.
 
@@ -20,10 +20,8 @@ This page provides informations on the use of cookies and similar technologies, 
 
 ### DEFINITIONS
 
-Cookies are short pieces of text (letters and/or numbers) that allow the web server to store on the client (the browser) information to be reused during the same visit to the site (session cookies) or later, even at a distance of days (persistent cookies). Cookies are stored, according to user preferences from a single browser on the specific device used (PC, tablet, smartphone).
-
-Similar technologies, such as, for example, web beacons, clear GIFs and all forms of local storage introduced with HTML5, can be used to gather information on user behavior and use of services.
-
+Cookies are short pieces of text (letters and/or numbers) that allow the web server to store on the client (the browser) information to be reused during the same visit to the site (session cookies) or later, even at a distance of days (persistent cookies). Cookies are stored, according to user preferences from a single browser on the specific device used (PC, tablet, smartphone).<br>
+Similar technologies, such as, for example, web beacons, clear GIFs and all forms of local storage introduced with HTML5, can be used to gather information on user behavior and use of services.<br>
 Later in this document we will refer to cookies and similar technologies to all by simply using the word "cookie".
 
 ### TYPES OF COOKIES
@@ -38,25 +36,25 @@ Based on the characteristics and use of cookies, we can distinguish several cate
 
   Without these cookie could be compromised the use of all the site that is visiting or just some parts/services of the site.
 
-  This site does not use cookies of this type.
+  **This site does not use cookies of this type**.
 
 * Profiling cookie
 
   These are persistent cookies used to identify (anonymously or not) User preferences and improve its navigation experience.
 
-  This site does not use cookies of this type.
+  **This site does not use cookies of this type**.
 
 * First-party cookies.
 
   Cookie which are set from the domain of the site User is visiting.
 
-  This site does not use cookies of this type.
+  **This site does not use cookies of this type**.
 
 * Third-party Cookies.
 
   Cookies belonging to a different domain than the site User is vising. These could, for example, be related to links of scripts that are located on external domains.
 
-  This site does not use cookies of this type.
+  **This site does not use cookies of this type**.
 
 ### HOW TO BLOCK COOKIES
 
@@ -82,17 +80,19 @@ Some sites and services offer the Opt-Out cookies that allow you to disable the 
 
 * [All About Cookies][all-about-cookies] <i class="fa fa-external-link"></i>: to find out more about cookies.
 
-Privacy/Cookie policies of the social networks that could be reached from links present this Site:
+  Privacy/Cookie policies of the social networks that could be reached from links present this Site:
 
-* <i class="fa fa-twitter"></i><span style="margin-left: 10px">[Twitter <i class="fa fa-external-link"></i>][twitter-policy]</span>
+  * <i class="fa fa-twitter"></i><span style="margin-left: 10px">[Twitter <i class="fa fa-external-link"></i>][twitter-policy]</span>
 
-* <i class="fa fa-linkedin"></i><span style="margin-left: 10px">[LinkedIn <i class="fa fa-external-link"></i>][linkedin-policy]</span>
+  * <i class="fa fa-linkedin"></i><span style="margin-left: 10px">[LinkedIn <i class="fa fa-external-link"></i>][linkedin-policy]</span>
 
-* <i class="fa fa-facebook"></i><span style="margin-left: 15px">[Facebook <i class="fa fa-external-link"></i>][facebook-policy]</span>
+  * <i class="fa fa-facebook"></i><span style="margin-left: 15px">[Facebook <i class="fa fa-external-link"></i>][facebook-policy]</span>
 
-* <i class="fa fa-skype"></i><span style="margin-left: 10px">[Skype/Microsoft <i class="fa fa-external-link"></i>][microsoft-policy]</span>
+  * <i class="fa fa-skype"></i><span style="margin-left: 10px">[Skype/Microsoft <i class="fa fa-external-link"></i>][microsoft-policy]</span>
 
-* <i class="fa fa-github"></i><span style="margin-left: 10px">[GitHub <i class="fa fa-external-link"></i>][github-policy]</span> 
+  * <i class="fa fa-github"></i><span style="margin-left: 10px">[GitHub <i class="fa fa-external-link"></i>][github-policy]</span>
+
+* [Firebug  <i class="fa fa-external-link"></i>](http://getfirebug.com/): A tool that can help to check if a site is using cookies.
 
 ### POLICY UDPATE
 

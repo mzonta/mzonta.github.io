@@ -14,7 +14,7 @@ Si tratta di un'informativa che è resa anche ai sensi dell'[art. 13 del d.lg. n
 
 *www.massimilianozonta.com* - *mzonta.github.io*
 
-corrispondenti alla pagina iniziale del Sito di {{ page.datacontroller }}.
+corrispondenti alla pagina iniziale del Sito.
 
 Il Sito é ospitato presso GitHub Inc. (https://github.com/). Si veda [Security policy <i class="fa fa-external-link"></i>][github-security].
 
