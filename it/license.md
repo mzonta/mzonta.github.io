@@ -6,14 +6,9 @@ title: Licenza & Responsabilità
 ### Licenza
 
 Il sito www.massimilianozonta.com è di proprietà di Massimiliano Zonta ed è da esso gestito.
-Il contenuto delle seguenti directory è soggetto a Copyright di Massimiliano Zonta:
-
-* _posts/
-
-* img/
-
-In generale i contenuti delle rimanenti cartelle e files sono licenziati secondo la licenza MIT.
-In caso di eccezzioni si trovano i documenti di licenza nella rispettiva cartella.
+Le immagini contenute nel sito sono soggette a Copyright di Massimiliano Zonta:
+In generale i contenuti dei Post sono licenziati secondo la licenza MIT.
+Salvo altra indicazione.
 
 ### Responsabilità
 
