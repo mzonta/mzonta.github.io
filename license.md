@@ -5,9 +5,9 @@ title: License & Disclaimer
 
 ### License
 
-The site www.massimilianozonta.com is owned by Massimiliano Zonta and operated by him.
-The images contained in this site are subject to Copyright Massimiliano Zonta:
-In general, the Post content are licensed under the MIT license.
+The site www.massimilianozonta.com is owned by Massimiliano Zonta and operated by him.<br>
+The images contained in this site are subject to Copyright Massimiliano Zonta.<br>
+In general the Post content are licensed under the MIT license.
 Unless otherwise stated.
 
 ### Disclaimer
