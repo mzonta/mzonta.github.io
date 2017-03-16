@@ -8,7 +8,7 @@ author:
 categories: books
 ---
 
-I have open a new section on my [Github Page][my-gh] called [Booklist][my-booklist] where I will insert the books I am reading.
+I have created a new section on my [Github Page][my-gh] called [Booklist][my-booklist] where I will insert the books I am reading.
 
 Not always with some specific goal in mind, but always to enlarge my point of view on the automation world.
 
