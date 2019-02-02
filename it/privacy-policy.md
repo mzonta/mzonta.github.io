@@ -3,7 +3,7 @@ layout: default-it
 title: Privacy policy
 data_controller: Massimiliano Zonta
 controller_address:
-  Via tre ponti, 62
+  Via Brigata Granatieri di Sardegna, 11
   <br>
   36061 Bassano del Grappa (VI)
   <br>

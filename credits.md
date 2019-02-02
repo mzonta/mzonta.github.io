@@ -51,12 +51,6 @@ While there is no any particular criteria inside each subject, except for the si
 
   [font-awesome-examples]: http://fontawesome.io/examples/
 
-* ### Form
-
-  [Formspree][formspree-site]
-
-  [formspree-site]: https://formspree.io/
-
 * ### GitHub
 
   [GitHub][github-site]
